@@ -1,0 +1,2 @@
+# TRIP
+Dynamic programming challenge
